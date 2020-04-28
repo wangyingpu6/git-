@@ -1,0 +1,13 @@
+git 拉取冲突
+
+1. git stash
+
+2. git pull
+
+3. git stash pop stash@{0}
+
+4. git stash clear
+
+git 查询远程地址
+
+git remote -v
